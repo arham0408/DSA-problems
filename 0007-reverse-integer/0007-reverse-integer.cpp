@@ -5,8 +5,8 @@ public:
         if(x>0){
             while (x > 0){
                 int temp= x %10;
-                rev=rev*10+temp;
-        
+                rev=rev*10;
+                rev=rev+temp;
                 x=x/10;
             
             }
@@ -21,7 +21,7 @@ public:
             }
 
         }
-        ;if(rev>INT_MAX||rev<INT_MIN) return 0;
+        if(rev>INT_MAX||rev<INT_MIN) return 0;
         return rev;
     }
 };
