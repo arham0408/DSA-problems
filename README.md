@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arham0408/DSA-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/arham0408/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arham0408/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arham0408/DSA-problems/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arham0408/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/arham0408/DSA-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
