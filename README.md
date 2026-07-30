@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arham0408/DSA-problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/arham0408/DSA-problems/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/arham0408/DSA-problems/tree/master/0877-stone-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arham0408/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arham0408/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arham0408/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arham0408/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/arham0408/DSA-problems/tree/master/0125-valid-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arham0408/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
