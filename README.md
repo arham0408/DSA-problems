@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arham0408/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/arham0408/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/arham0408/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arham0408/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -92,4 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
