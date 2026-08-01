@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arham0408/DSA-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arham0408/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arham0408/DSA-problems/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/arham0408/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arham0408/DSA-problems/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/arham0408/DSA-problems/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arham0408/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/arham0408/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arham0408/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -98,18 +102,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arham0408/DSA-problems/tree/master/0486-predict-the-winner) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
