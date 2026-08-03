@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arham0408/DSA-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/arham0408/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/arham0408/DSA-problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arham0408/DSA-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arham0408/DSA-problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/arham0408/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
