@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arham0408/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/arham0408/DSA-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/arham0408/DSA-problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/arham0408/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/arham0408/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arham0408/DSA-problems/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arham0408/DSA-problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/arham0408/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/arham0408/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/arham0408/DSA-problems/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/arham0408/DSA-problems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/arham0408/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/arham0408/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
