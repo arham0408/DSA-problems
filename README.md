@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arham0408/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/arham0408/DSA-problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arham0408/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arham0408/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arham0408/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arham0408/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/arham0408/DSA-problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/arham0408/DSA-problems/tree/master/0224-basic-calculator) |
@@ -164,6 +166,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arham0408/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/arham0408/DSA-problems/tree/master/0224-basic-calculator) |
 | [2390-removing-stars-from-a-string](https://github.com/arham0408/DSA-problems/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/arham0408/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
