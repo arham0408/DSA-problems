@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/arham0408/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arham0408/DSA-problems/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/arham0408/DSA-problems/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/arham0408/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/arham0408/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arham0408/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
