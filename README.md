@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arham0408/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arham0408/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arham0408/DSA-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/arham0408/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/arham0408/DSA-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2937-make-three-strings-equal](https://github.com/arham0408/DSA-problems/tree/master/2937-make-three-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arham0408/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arham0408/DSA-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -185,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arham0408/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arham0408/DSA-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
