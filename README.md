@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arham0408/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/arham0408/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arham0408/DSA-problems/tree/master/0877-stone-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/arham0408/DSA-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/arham0408/DSA-problems/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arham0408/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/arham0408/DSA-problems/tree/master/3731-find-missing-elements) |
